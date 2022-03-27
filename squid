@@ -22,3 +22,4 @@ ExecStop=/usr/sbin/squid -k shutdown $SQUID_OPTS -f ${SQUID_CONF}
 
 [Install]
 WantedBy=multi-user.target 
+

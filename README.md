@@ -10,4 +10,5 @@ USAGE :
 `pip install -r requirements.txt`
 
 - run Script
+- replace your api key with XXXXXXXX in brut.py script . you can get api key from( https://etherscan.io/)
 `python brut.py` or `python3 brut.py`

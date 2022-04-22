@@ -38,7 +38,7 @@ def getone(num):
             print(bal,me,addr)
             # os.system(f'echo {bal} {me} {addr} >> valid.txt')
         else:
-            # print(bal,me,addr)
+            print(bal,me,addr)
             pass
     
   

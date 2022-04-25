@@ -1,6 +1,6 @@
 # Brutforcing-Metamask-seed
 
----- https://www.youtube.com/watch?v=qDfwZXG6fYI ----
+---- https://youtu.be/qDfwZXG6fYI ----
 
 USAGE : 
 

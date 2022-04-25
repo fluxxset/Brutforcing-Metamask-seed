@@ -33,6 +33,8 @@ replace your api key with XXXXXXXX in brut.py script. you can get api key from( 
 
 `touch valid.txt`
 
+`sudo apt install python3-pip -y`
+
 now replace your api key with XXXXXXXX in brut.py script. you can get api key from( https://etherscan.io/)
 you can use `nano brut2.py` command to edit file.
 

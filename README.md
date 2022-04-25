@@ -25,6 +25,14 @@ replace your api key with XXXXXXXX in brut.py script. you can get api key from( 
 
 - follow this process for cloud 
 
+`ssh root@your_public_ip`
+
+`sudo apt update`
+
+`sudo apt upgrade`
+
+`sudo apt install python3-pip -y`
+
 `git clone https://github.com/fluxx03/Brutforcing-Metamask-seed.git`
 
 `cd Brutforcing-Metamask-seed`
@@ -32,8 +40,6 @@ replace your api key with XXXXXXXX in brut.py script. you can get api key from( 
 `pip install -r requirements.txt`
 
 `touch valid.txt`
-
-`sudo apt install python3-pip -y`
 
 now replace your api key with XXXXXXXX in brut.py script. you can get api key from( https://etherscan.io/)
 you can use `nano brut2.py` command to edit file.

@@ -1,5 +1,7 @@
 # Brutforcing-Metamask-seed
 
+---- https://www.youtube.com/watch?v=qDfwZXG6fYI ----
+
 USAGE : 
 
 - clone git repo
@@ -22,6 +24,8 @@ replace your api key with XXXXXXXX in brut.py script. you can get api key from( 
 -------------------------------------------------------------
 
 # Deploy on cloud
+
+---- https://youtu.be/EJ55RCZUnjQ ----
 
 - follow this process for cloud 
 

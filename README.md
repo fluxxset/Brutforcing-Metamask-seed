@@ -31,14 +31,16 @@ replace your api key with XXXXXXXX in brut.py script. you can get api key from( 
 
 `pip install -r requirements.txt`
 
-replace your api key with XXXXXXXX in brut.py script. you can get api key from( https://etherscan.io/)
+`touch valid.txt`
+
+now replace your api key with XXXXXXXX in brut.py script. you can get api key from( https://etherscan.io/)
 you can use `nano brut2.py` command to edit file.
 
 `nohup python3 brut2.py &`
 
 excute `top` to running process
 
-now you can close ssh connection with `exit` and script will run on cloud 24x7.
+now you can close ssh connection with `exit` and script will run on cloud 24x7 and all cracked accounts will be strored in `valid.txt` file.
 
 if you dont have Digitalocean account use below link to create new onw and get 100$ free credit.
 https://m.do.co/c/8f7b157b0fa2

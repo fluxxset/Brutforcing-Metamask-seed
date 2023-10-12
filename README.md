@@ -6,7 +6,7 @@ USAGE :
 
 - clone git repo
 
-`git clone https://github.com/fluxx03/Brutforcing-Metamask-seed.git`
+`git clone https://github.com/fluxxset/Brutforcing-Metamask-seed.git`
 
 - install packages
 
@@ -37,7 +37,7 @@ replace your api key with XXXXXXXX in brut.py script. you can get api key from( 
 
 `sudo apt install python3-pip -y`
 
-`git clone https://github.com/fluxx03/Brutforcing-Metamask-seed.git`
+`git clone https://github.com/fluxxset/Brutforcing-Metamask-seed.git`
 
 `cd Brutforcing-Metamask-seed`
 
